@@ -1,0 +1,44 @@
+﻿  main.c
+D:\CS551\Teapot-master-run\Teapot\vector.h(44,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\matrix.h(66,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\matrix.h(67,52): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\matrix.h(68,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\global.h(33,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\shader.h(8,11): warning C4013: 'open' undefined; assuming extern returning int
+D:\CS551\Teapot-master-run\Teapot\shader.h(9,15): warning C4013: 'lseek' undefined; assuming extern returning int
+D:\CS551\Teapot-master-run\Teapot\shader.h(12,14): warning C4013: 'read' undefined; assuming extern returning int
+D:\CS551\Teapot-master-run\Teapot\shader.h(14,7): warning C4013: 'close' undefined; assuming extern returning int
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(35,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(42,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(79,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(80,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(212,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(213,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(214,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\load_geom.h(215,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(10,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(14,22): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(21,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(22,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(23,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\halton.h(45,54): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(88,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(94,32): warning C4305: 'function': truncation from 'double' to 'float'
+D:\CS551\Teapot-master-run\Teapot\main.c(104,38): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(105,30): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(105,49): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(105,68): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(106,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(141,42): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(92,1): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(164,48): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(165,52): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(187,29): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(207,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(238,59): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS551\Teapot-master-run\Teapot\main.c(255,41): warning C4305: 'function': truncation from 'double' to 'float'
+D:\CS551\Teapot-master-run\Teapot\main.c(257,67): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(261,33): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CS551\Teapot-master-run\Teapot\main.c(251,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS551\Teapot-master-run\Teapot\main.c(393,29): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+  Teapot.vcxproj -> D:\CS551\Teapot-master-run\Teapot\Debug\Teapot.exe
